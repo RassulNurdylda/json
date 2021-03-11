@@ -4,70 +4,60 @@
             "id": 1,
             "name": "Type-c wire",
             "price": 3.99,
-            "image":"https://www.sbsmobile.com/gbr/173134-thickbox_default/usb-20-type-c-cable-unbreakable-collection.jpg",
             "raiting": "4.5 out of 5"
         },
         {
             "id": 2,
             "name": "Headphones mini jack 3.5mm Apple style",
             "price": 7.99,
-            "image":"https://images-na.ssl-images-amazon.com/images/I/410eivKV4DL._AC_SX466_.jpg",
             "raiting": "4.2 out of 5"
         },
         {
             "id": 3,
             "name": "Protable bluetooth speaker JBL Charge 4",
             "price": 150.99,
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMr3HD9LatsM2g_0rJDkabtoSsTnk2h1lv5w&usqp=CAU",
             "raiting": "4.0 out of 5"
         },
         {
             "id": 4,
             "name": "Power bank Xiaomi S2000 fast charge 20000mah",
             "price": 99.98,
-            "image":"https://xiaomi-store.kz/images/redmi-20000-mah/1.png",
             "raiting": "4.8 out of 5"
         },
         {
             "id": 5,
             "name": "Wireless headphones Huawei p20 ",
             "price": 180.09,
-            "image":"https://images-na.ssl-images-amazon.com/images/I/71KplMgfSIL._AC_SX679_.jpg",
             "raiting": "3.8 out of 5"
         },
         {
             "id": 6,
             "name": "32 inch TV Android",
             "price": 188,
-            "image":"https://images-na.ssl-images-amazon.com/images/I/81g4HVkElqL._SL1500_.jpg",
             "raiting": "2.4 out of 5"
         },
         {
             "id": 7,
             "name": "Action Camera GoPro HERO9",
             "price": 443,
-            "image":"https://www.ixbt.com/img/r30/00/02/34/08/gopro-hero9-black-big.jpg",
             "raiting": "4.5 out of 5"
         },
         {
             "id": 8,
             "name": "Original VR Virtual Reality 3D Glasses Box",
             "price": 8.66,
-            "image":"https://images-na.ssl-images-amazon.com/images/I/31aFcOd%2BwZL._AC_SX355_.jpg",
             "raiting": "3.7 out of 5"
         },
         {
             "id": 9,
             "name": "Smart Watch Man Woman 2020",
             "price": 12.81,
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyrFC4TI10-5jJX8iRzOe9pWiia48bkccKPg&usqp=CAU",
             "raiting": "2.0 out of 5"
         },
         {
             "id": 10,
             "name": "Selfie Stick Tripod",
             "price": 29.83,
-            "image":"https://cdn1.ozone.ru/s3/multimedia-v/c500/6017014243.jpg",
             "raiting": "5.0 out of 5"
         }
     ],
@@ -76,71 +66,247 @@
             "id": 11,
             "name": "Xiaomi alarm clock ",
             "price": 13.56,
-            "image":"https://akket.com/wp-content/uploads/2018/09/Xiao-Ai-Smart-Alarm-Clock-Xiaomi-1.jpg",
             "raiting": "4.8 out of 5"
         },
         {
             "id": 12,
             "name": "Electric kettle",
             "price": 12.36,
-            "image":"https://www.mgistore.eu/wp-content/uploads/2018/09/Electric-kettle-18-L.jpeg",
             "raiting": "3.9 out of 5"
         },
         {
             "id": 13,
             "name": "Digital Scales",
             "price": 4.42,
-            "image":"https://images-na.ssl-images-amazon.com/images/I/71w80lJkPpL._AC_SY450_.jpg",
             "raiting": "3.5 out of 5"
         },
         {
             "id": 14,
             "name": "Electric steam iron",
             "price": 34.41,
-            "image":"https://images-na.ssl-images-amazon.com/images/I/61fJRCqJGzL._SX425_.jpg",
             "raiting": "4.2 out of 5"
         },
         {
             "id": 15,
             "name": "A vacuum cleaner",
             "price": 11.23,
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIisN03YqrY8cNw7qHk0iSa6l3qiWyPKwLAw&usqp=CAU",
             "raiting": "3.5 out of 5"
         },
         {
             "id": 16,
             "name": "Three-piece Shovel Rake Planting Tools ",
             "price": 1.17,
-            "image":"https://images-na.ssl-images-amazon.com/images/I/41GYIqjOgRL._AC_.jpg",
             "raiting": "4.9 out of 5"
         },
         {
             "id": 17,
             "name": "LED Panel Lamp",
             "price": 22.30,
-            "image":"https://images-na.ssl-images-amazon.com/images/I/51VDjmFARtL._AC_SL1006_.jpg",
             "raiting": "4.0 out of 5"
         },
         {
             "id": 18,
             "name": "Cordless Drill Electric Screwdriver",
             "price": 51.63,
-            "image":"https://i.pinimg.com/originals/55/92/55/55925544c3f9ccb5a74e2401d7c7fe75.jpg",
             "raiting": "5.0 out of 5"
         },
         {
             "id": 19,
             "name": "Working mat",
             "price": 20.90,
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSepup6vXvofsMGR7pmZwvV6W_Rxfzn57J-Ew&usqp=CAU",
             "raiting": "3.0 out of 5"
         },
         {
             "id": 20,
             "name": "Basin mixer",
             "price": 59.58,
-            "image":"https://i.pinimg.com/originals/ae/a8/de/aea8de2a8506def32a534e0a510f851a.jpg",
             "raiting": "3.9 out of 5"
+        }
+    ],
+    "hobby": [
+        {
+            "id": 111,
+            "name": "Acoustic Guitar for Beginners",
+            "price": 101.27,
+            "raiting": "4.5 out of 5"
+        },
+        {
+            "id": 112,
+            "name": "Fishing Lure",
+            "price": 3.40,
+            "raiting": "4.9 out of 5"
+        },
+        {
+            "id": 113,
+            "name": "Backpacking Tent",
+            "price": 43.22,
+            "raiting": "4.5 out of 5"
+        },
+        {
+            "id": 114,
+            "name": "Military Camouflage Net",
+            "price": 11.52,
+            "raiting": "4.0 out of 5"
+        },
+        {
+            "id": 115,
+            "name": "Electric bicycle",
+            "price": 300,
+            "raiting": "2.5 out of 5"
+        },
+        {
+            "id": 116,
+            "name": "Push Up Stand",
+            "price": 28.50,
+            "raiting": "4.5 out of 5"
+        },
+        {
+            "id": 117,
+            "name": "Men Women Running Phone Bags Waterproof",
+            "price": 1.98,
+            "raiting": "4.1 out of 5"
+        },
+        {
+            "id": 118,
+            "name": "Roller Skates",
+            "price": 58.58,
+            "raiting": "4.7 out of 5"
+        },
+        {
+            "id": 119,
+            "name": "Telescope ",
+            "price": 23.57,
+            "raiting": "4.8 out of 5"
+        },
+        {
+            "id": 120,
+            "name": "Metal Detector Underground",
+            "price": 46.12,
+            "raiting": "4.8 out of 5"
+        }
+    ],
+    "сar products": [
+        {
+            "id": 1111,
+            "name": "Car rear view camera",
+            "price": 16.15,
+            "raiting": "4.9 out of 5"
+        },
+        {
+            "id": 1112,
+            "name": "Mirror-DVR",
+            "price": 67.60,
+            "raiting": "4.7 out of 5"
+        },
+        {
+            "id": 1113,
+            "name": "Holder for mobile",
+            "price": 3.07,
+            "raiting": "4.5 out of 5"
+        },
+        {
+            "id": 1114,
+            "name": "Native receiver for HYUNDAI Solaris 2012-2016",
+            "price": 304.71,
+            "raiting": "5.0 out of 5"
+        },
+        {
+            "id": 1115,
+            "name": "2 pcs. super bright white fog light",
+            "price": 0.63,
+            "raiting": "4.7 out of 5"
+        },
+        {
+            "id": 1116,
+            "name": "Car Anti-slip Phone Mat",
+            "price": 1.29,
+            "raiting": "4.8 out of 5"
+        },
+        {
+            "id": 1117,
+            "name": "Car battery tester ",
+            "price": 22.29,
+            "raiting": "3.5 out of 5"
+        },
+        {
+            "id": 1118,
+            "name": "Portable Car Safety Hammer",
+            "price": 1.09,
+            "raiting": "4.0 out of 5"
+        },
+        {
+            "id": 1119,
+            "name": "Car windshield ice scraper",
+            "price": 11.06,
+            "raiting": "4.9 out of 5"
+        },
+        {
+            "id": 1120,
+            "name": "Large Elastic Car Cargo Net",
+            "price": 11.86,
+            "raiting": "5.0 out of 5"
+        }
+    ],
+    "appliances": [
+        {
+            "id": 11111,
+            "name": "Coffee machine",
+            "price": 107.97,
+            "raiting": "4.8 out of 5"
+        },
+        {
+            "id": 11112,
+            "name": "Juicer",
+            "price": 93.34,
+            "raiting": "4.7 out of 5"
+        },
+        {
+            "id": 11113,
+            "name": "Electric multicooker",
+            "price": 27.83,
+            "raiting": "4.5 out of 5"
+        },
+        {
+            "id": 11114,
+            "name": "Toaster",
+            "price": 17.96,
+            "raiting": "4.2 out of 5"
+        },
+        {
+            "id": 11115,
+            "name": "Gas stove",
+            "price": 158.10,
+            "raiting": "1.0 out of 5"
+        },
+        {
+            "id": 11116,
+            "name": "Kitchen water heater",
+            "price": 24.00,
+            "raiting": "4.7 out of 5"
+        },
+        {
+            "id": 11117,
+            "name": "Hair clipper",
+            "price": 23.34,
+            "raiting": "4.7 out of 5"
+        },
+        {
+            "id": 11118,
+            "name": "Portable humidifier",
+            "price": 8.86,
+            "raiting": "4.7 out of 5"
+        },
+        {
+            "id": 11119,
+            "name": "Cooker hood",
+            "price": 151.10,
+            "raiting": "3.7 out of 5"
+        },
+        {
+            "id": 11120,
+            "name": "Microwave",
+            "price": 54.97,
+            "raiting": "5.0 out of 5"
         }
     ]
 }
